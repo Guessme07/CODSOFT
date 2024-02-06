@@ -1,0 +1,252 @@
+.text1
+{
+    font-family:'canela deck';
+    font-style: light italic;
+    font-weight: 400px;
+    flex-basis: 20%;
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(227, 226, 223);
+}
+.nav
+{
+    margin-left: 50px;
+    
+}
+.main
+{
+    display: flex;
+    background-color:rgb(3, 3, 3);
+}
+.nav
+{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family:'canela deck';
+    font-style: light italic;
+    word-spacing: 50px;
+    margin-left: 600px;
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(227, 226, 223);
+}
+.nav a:hover
+{
+    background-color: rgb(174, 206, 206);
+    padding;10px;
+}
+.text2{
+    font-size: 40px;
+    font-family:'canela deck';
+    font-style: light italic;
+    color:rgb(5, 3, 3);
+    position: absolute;
+    top:330px;
+    margin-left: 50px;
+    margin-right: 850px;
+}
+#services
+{
+    width:150px;
+    color: black;
+    font-size: 40px;
+    font-family:'canela deck';
+    font-style: light italic;
+    margin-top:50px;
+    margin-bottom: 60px;
+    border-bottom:4px solid red;
+    border-radius: 6px;
+    outline: 40px;
+    
+
+}
+#nat
+{
+    width:400px;
+    margin
+}
+#doc
+{
+    width:400px;
+    margin-left:100px
+}
+#art
+{
+    width: 400px;
+    margin-left: 100px;
+}
+.t1photo
+{ 
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+p1
+{
+    margin-left: 60px;
+    margin-top: 35px;
+font-size: 30px;
+font-family:'canela deck';
+font-style: light italic;
+}
+p2
+{
+    margin-top: 35px;
+    font-size: 30px;
+    margin-left: 200px;
+    font-family:'canela deck';
+    font-style: light italic;
+
+}
+p3
+{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 140px;
+    font-family:'canela deck';
+    font-style: light italic;
+
+
+}
+.btn
+{
+    position: absolute;
+    top:490px;
+    left:70px;
+    font-size: 30px;
+    color:white;
+    background-color:black;
+    padding:10px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+#About
+{
+    width:150px;
+    color: black;
+    font-size: 40px;
+    font-family:'canela deck';
+    font-style: light italic;
+    margin-top:50px;
+    margin-bottom: 60px;
+    border-bottom:4px solid red;
+    border-radius: 6px;
+    outline: 40px;
+    
+
+}
+p4
+{
+    font-size: 30px;
+    color: grey;
+    margin-top: 40px;
+}
+p5
+{
+    font-size: 30px;
+    color: grey;
+    margin-top: 40px;
+
+}
+p8
+{
+    
+    position:absolute;
+    top:2550px;
+    left: 130px;
+    right: 800px;
+    margin-left: 170px;
+ color: gray;
+ font-size: 40px;
+
+}
+p9
+{
+     
+    position:absolute;
+    top:2550px;
+    left: 480px;
+    
+    margin-left: 170px;
+ color: gray;
+ font-size: 40px;
+}
+p10
+{
+    position:absolute;
+    top:2650px;
+    left: 550px;
+   
+ margin-left: 80px;
+ font-size: 25px;
+
+}
+p11
+{
+    position:absolute;
+    top:2550px;
+    left: 840px;
+    
+    margin-left: 170px;
+ color: gray;
+ font-size: 40px;
+
+}
+.Email
+{
+    text-decoration: none;
+    position:absolute;
+    top:2650px;
+    left: 800px;
+   
+ margin-left: 80px;
+ font-size: 25px;
+
+
+}
+p12{
+    position: absolute;
+    font-size: 30px;
+    top:2800px;
+    margin-bottom: 700px;
+}
+#contact
+{
+    font-family:'canela deck';
+    font-style: light italic;
+    font-weight: 600;
+    margin-top: 80px;
+    color:rgb(37, 68, 73);
+    margin-left: 50px;
+    font-size: 50px;
+    margin-bottom: 50px;
+
+}
+#contact{
+    margin-left: 600px;
+    border-bottom: 6px solid red;
+    border-radius: 6px;
+    margin-right: 550px;
+    
+}
+
+
+
+
+.icon1
+{
+    margin-top: 100px;
+    margin-left: 340px;
+    font-size: 80px;
+    word-spacing: 250px;
+
+}
+p7{
+   
+    position:absolute;
+    top:2650px;
+    left: 130px;
+    right: 900px;
+ margin-left: 80px;
+ font-size: 25px;
+}
